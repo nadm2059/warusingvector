@@ -161,6 +161,7 @@ int main() {
     
     // Print statistics
     cout << "\n------Final Stats-------" << endl;
+    cout << "mysort" << endl;
     cout << "   " << player1 << " vs. " << player2 << endl;
     cout << "Wins   " << player1Wins << "      " << player2Wins << endl;
     cout << "Losses " << player2Wins << "      " << player1Wins << endl;
